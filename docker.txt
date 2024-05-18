@@ -1,0 +1,4 @@
+Why use Docker?
+It makes really easy to install and use any software without worrying about setup or dependencies.
+
+What is Docker?
